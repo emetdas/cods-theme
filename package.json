@@ -14,7 +14,7 @@
     "keywords": [
         "cods-theme"
     ],
-    "icon": icon.png,
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
